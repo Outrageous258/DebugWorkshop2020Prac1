@@ -1,0 +1,11 @@
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\bin\Debug\netcoreapp3.1\debugws.exe
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\bin\Debug\netcoreapp3.1\debugws.deps.json
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\bin\Debug\netcoreapp3.1\debugws.runtimeconfig.json
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\bin\Debug\netcoreapp3.1\debugws.runtimeconfig.dev.json
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\bin\Debug\netcoreapp3.1\debugws.dll
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\bin\Debug\netcoreapp3.1\debugws.pdb
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\obj\Debug\netcoreapp3.1\debugws.csprojAssemblyReference.cache
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\obj\Debug\netcoreapp3.1\debugws.AssemblyInfoInputs.cache
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\obj\Debug\netcoreapp3.1\debugws.AssemblyInfo.cs
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\obj\Debug\netcoreapp3.1\debugws.dll
+C:\Users\kyleo\OneDrive\Documents\Github repos\Workshop\obj\Debug\netcoreapp3.1\debugws.pdb

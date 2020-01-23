@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kyleo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kyleo\\.nuget\\packages"
+    ]
+  }
+}
